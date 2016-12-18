@@ -1,4 +1,4 @@
-#include "Adafruit_DHT/Adafruit_DHT.h"
+#include "Adafruit_DHT.h"
 
 #define DHTPIN 0     // what pin we're connected to
 
